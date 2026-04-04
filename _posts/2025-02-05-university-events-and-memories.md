@@ -14,6 +14,7 @@ celebrations are what make it a truly complete experience.
 A three day celebration of art, music, drama and culture from students across 
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
+
 ![Anual Cultural Festival](/assets/img/![images (4)](https://github.com/user-attachments/assets/4b35dbf6-aa57-415f-9fc7-025dc5e30f24)
 
 

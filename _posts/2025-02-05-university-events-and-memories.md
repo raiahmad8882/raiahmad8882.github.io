@@ -15,7 +15,7 @@ A three day celebration of art, music, drama and culture from students across
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
 
-<img src="/assets/img/first-day-1.jpg" alt="title" width="400" height="250"/>
+<img src="/assets/img/first-day-1.jpg" alt="title" width="900" height="500"/>
 
 ### Inter University Quiz Competition
 Our team competed against students from 8 universities. We reached the semi 

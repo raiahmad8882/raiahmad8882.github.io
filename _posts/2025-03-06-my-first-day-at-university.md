@@ -15,7 +15,7 @@ Walking through the university gates for the first time as a registered
 student felt surreal. The campus was much larger than I had imagined — tall 
 buildings, green gardens, and hundreds of students rushing between classes.
 <p align="center">
-  <img src="/assets/img/first-day-1.jpg" alt="title" width="400"/>
+  <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
 </p>
 
 ## My First Lecture
@@ -25,6 +25,9 @@ with a warm smile and said something I will never forget:
 
 > "You are not here just to pass exams. You are here to think, to question, 
 and to grow."
+> <p align="center">
+  <img src="/assets/img/first-day-2.jpg" alt="title" width="400"/>
+</p>
 
 Those words instantly calmed my nerves and made me feel excited about the 
 journey ahead.

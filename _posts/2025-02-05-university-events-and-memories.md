@@ -14,7 +14,9 @@ celebrations are what make it a truly complete experience.
 A three day celebration of art, music, drama and culture from students across 
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
-![Uploading images (4).jpeg…]()
+![Anual Cultural Festival](/assets/img/images (4)
+(https://github.com/user-attachments/assets/27970603-631d-47fd-8acb-70904450b878)
+
 
 
 ### Inter University Quiz Competition

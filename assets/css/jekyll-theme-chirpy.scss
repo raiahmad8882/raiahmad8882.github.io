@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dark mode colors */
+[data-mode="dark"] {
+  --main-bg: #1a1a2e !important;
+  --card-bg: #16213e !important;
+  --link-color: #FF6B9D !important;
+  --heading-color: #FFD166 !important;
+  --text-color: #e0e0e0 !important;
+}
+
+/* Light mode colors */
+:root {
+  --link-color: #9B59B6 !important;
+  --heading-color: #3498DB !important;
+}

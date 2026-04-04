@@ -18,6 +18,7 @@ from nothing is pure magic. Every bug fixed feels like a small victory.
 Understanding how the world became what it is today gives me perspective on 
 everything around me. History is not just the past — it is the key to 
 understanding the present.
+![image alt](https://github.com/raiahmad8882/raiahmad8882.github.io/blob/310afb7383a79f12f16fca3cfb41d39f0fb487e8/img/annual.jpeg)
 
 ### Biology
 The complexity of living systems is endlessly fascinating. Life itself is the 

@@ -5,7 +5,7 @@ categories: [University Life]
 tags: [friends, social, campus]
 ---
 
-University is one of the best places to make lifelong friends. When I first 
+##University is one of the best places to make lifelong friends. When I first 
 arrived, I knew absolutely nobody. But I quickly realized that everyone else 
 felt the same way.
 

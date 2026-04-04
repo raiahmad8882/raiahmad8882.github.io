@@ -26,7 +26,7 @@ with a warm smile and said something I will never forget:
 > "You are not here just to pass exams. You are here to think, to question, 
 and to grow."
 > <p align="center">
-  <img src="/assets/img/first-day-2.jpg" alt="title" width="400"/>
+  <img src="/assets/img/first-day-2.jpg" alt="title" width="900"/>
 </p>
 
 Those words instantly calmed my nerves and made me feel excited about the 

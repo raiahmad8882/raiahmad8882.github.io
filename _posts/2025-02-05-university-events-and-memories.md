@@ -15,7 +15,9 @@ A three day celebration of art, music, drama and culture from students across
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
 
-![title](/assets/img/first-day-1.jpg))
+<p align="center">
+  <img src="![title](/assets/img/first-day-1.jpg)" alt="Annual Cultural Festival" width="700">
+</p>
 
 
 ### Inter University Quiz Competition

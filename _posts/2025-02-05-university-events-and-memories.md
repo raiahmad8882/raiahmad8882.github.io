@@ -16,7 +16,7 @@ all departments. I performed in the drama segment and it was one of the most
 thrilling experiences of my life.
 
 <p align="center">
-  <img src="!(/assets/img/first-day-1.jpg)" alt="Annual Cultural Festival" width="700">
+  <img src="!(/assets/img/first-day-1.jpg)" alt="first-day-1" width="700">
 </p>
 
 

@@ -14,6 +14,8 @@ celebrations are what make it a truly complete experience.
 A three day celebration of art, music, drama and culture from students across 
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
+![Uploading images (4).jpeg…]()
+
 
 ### Inter University Quiz Competition
 Our team competed against students from 8 universities. We reached the semi 

@@ -16,7 +16,7 @@ all departments. I performed in the drama segment and it was one of the most
 thrilling experiences of my life.
 
 <p align="center">
-  <img src="/assets/img/first-day-1.jpg" alt="title" width="400"/>
+  <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
 </p>
 
 ### Inter University Quiz Competition

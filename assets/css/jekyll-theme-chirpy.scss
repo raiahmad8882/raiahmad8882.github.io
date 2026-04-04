@@ -3,17 +3,23 @@
 
 @import "{{ site.theme }}";
 
-/* Dark mode colors */
 [data-mode="dark"] {
-  --main-bg: #1a1a2e !important;
-  --card-bg: #16213e !important;
-  --link-color: #FF6B9D !important;
-  --heading-color: #FFD166 !important;
-  --text-color: #e0e0e0 !important;
+  --main-bg: #0d0d2b !important;
+  --card-bg: #1a1040 !important;
+  --card-border-color: #4a2080 !important;
+  --sidebar-bg: #110a2e !important;
+  --nav-bg: #110a2e !important;
+  --link-color: #a78bfa !important;
+  --heading-color: #818cf8 !important;
+  --text-color: #e2e8f0 !important;
+  --tb-odd-bg: #1a1040 !important;
 }
 
-/* Light mode colors */
 :root {
-  --link-color: #9B59B6 !important;
-  --heading-color: #3498DB !important;
+  --main-bg: #ede9fe !important;
+  --card-bg: #ffffff !important;
+  --sidebar-bg: #2d1b69 !important;
+  --link-color: #6d28d9 !important;
+  --heading-color: #1e3a8a !important;
+  --text-color: #1e1b4b !important;
 }

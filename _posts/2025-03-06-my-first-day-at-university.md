@@ -14,6 +14,7 @@ five times the night before, making sure I had everything ready.
 Walking through the university gates for the first time as a registered 
 student felt surreal. The campus was much larger than I had imagined — tall 
 buildings, green gardens, and hundreds of students rushing between classes.
+![title](/assets/img/first-day-1.jpg))
 
 
 ## My First Lecture

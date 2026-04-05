@@ -50,7 +50,7 @@ Pindi Bhattian is a beautiful city in the Punjab province of Pakistan, known as 
 
 <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top: 20px;">
   <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54234.34363842145!2d72.33383041933062!3d32.2965688537552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x392095cc1a7c5c0d%3A0x64c8d5d5180f1e!2sKhushab%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1712234000000!5m2!1sen!2s" 
+    src="https://maps.app.goo.gl/kYbd5WET18WekjFX8pb=!1m18!1m12!1m3!1d54234.34363842145!2d72.33383041933062!3d32.2965688537552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x392095cc1a7c5c0d%3A0x64c8d5d5180f1e!2sKhushab%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1712234000000!5m2!1sen!2s" 
     width="100%" 
     height="450" 
     style="border:0;" 

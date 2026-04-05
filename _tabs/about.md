@@ -51,4 +51,4 @@ I constantly update my skill set to stay at the forefront of the industry.
 I am always eager to collaborate on innovative projects or discuss the latest trends in technology.
 
 *   **Professional Network**: [LinkedIn](https://linkedin.com/in/raiahmad8882@gmail.com)
-*   **Code Repositories**: [GitHub](https://github.com/raiahmad8882
+*   **Code Repositories**: [GitHub](https://github.com/raiahmad8882)

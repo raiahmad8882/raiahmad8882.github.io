@@ -7,7 +7,8 @@ image:
   path: /assets/img/first-day.jpeg
   alt: Daily student routine
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 I still remember the morning of my first day at university. I woke up early, 
 feeling a mix of excitement and nervousness. I had checked my bag at least 
 five times the night before, making sure I had everything ready.
@@ -43,3 +44,5 @@ By the end of that first day, I was exhausted but deeply happy. I had
 attended three classes, explored half the campus, eaten in the cafeteria, 
 and already made two new friends. I went home knowing that university was 
 going to be the best chapter of my life.
+</h3>
+</div>

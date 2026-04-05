@@ -1,36 +1,10 @@
-/* ===== DARK GREEN THEME - CHIRPY VARIABLES OVERRIDE ===== */
+---
+---
 
-[data-mode="light"],
-:root {
-  --sidebar-bg: #0a1a0a;
-  --sidebar-muted-color: #81c784;
-  --nav-cursor-color: #4caf50;
-  --link-color: #2e7d32;
-  --link-underline-color: #4caf50;
-  --main-bg: #0d1f0d;
-  --card-bg: #122112;
-  --card-border-color: #1e3d1e;
-  --card-shadow: none;
-  --heading-color: #1b5e20;
-  --label-color: #2e7d32;
-  --text-muted-color: #4a7a4a;
-  --post-list-text-color: #2d5a2d;
-  --tag-bg: #1b5e20;
-  --tag-border: #2e7d32;
-  --tag-text: #c8e6c9;
-  --tag-hover: #4caf50;
-  --tb-odd-bg: #0f2a0f;
-  --tb-even-bg: #122112;
-  --tb-border-color: #1e3d1e;
-  --topbar-bg: #0a1a0a;
-  --search-border-color: #2e7d32;
-  --search-input-bg: #122112;
-  --search-tag-bg: #1b5e20;
-  --btn-border-color: #2e7d32;
-  --checkbox-color: #4caf50;
-  --checkbox-checked-color: #2e7d32;
-  --img-bg: #0d1f0d;
-  --shimmer-bg: #1b5e20;
+/* Force dark green on everything */
+
+html {
+  background-color: #0d1f0d !important;
 }
 
 body {
@@ -40,9 +14,60 @@ body {
 
 #sidebar {
   background-color: #0a1a0a !important;
+  border-right: 1px solid #1e3d1e !important;
+}
+
+#sidebar .site-title a,
+#sidebar .site-subtitle {
+  color: #81c784 !important;
+}
+
+#topbar-wrapper, #topbar {
+  background-color: #0a1a0a !important;
+}
+
+#main-wrapper {
+  background-color: #0d1f0d !important;
 }
 
 .card {
   background-color: #122112 !important;
   border-color: #1e3d1e !important;
+  color: #c8e6c9 !important;
+}
+
+.card a, .card .card-title a {
+  color: #66bb6a !important;
+}
+
+.card .card-text,
+.card .post-meta {
+  color: #a5d6a7 !important;
+}
+
+h1, h2, h3, h4 {
+  color: #66bb6a !important;
+}
+
+a {
+  color: #4caf50 !important;
+}
+
+.post-content, .page-content {
+  background-color: #0d1f0d !important;
+  color: #c8e6c9 !important;
+}
+
+#panel-wrapper {
+  background-color: #0d1f0d !important;
+}
+
+.panel-heading {
+  color: #4caf50 !important;
+}
+
+.tag, .badge {
+  background-color: #1b5e20 !important;
+  color: #c8e6c9 !important;
+  border-color: #2e7d32 !important;
 }

@@ -3,6 +3,9 @@ title: "Effective Study Tips for University Students"
 date: 2026-01-22 10:00:00 +0500
 categories: [Academics]
 tags: [study, tips, exams]
+image:
+  path: /assets/img/friends-2.jpg
+  alt: Daily student routine
 ---
 
 # When I first arrived at university,

@@ -3,6 +3,9 @@ title: "Building New Friendships"
 date: 2026-01-08 10:00:00 +0500
 categories: [University Life]
 tags: [friends, social, campus]
+image:
+  path: /assets/img/routine-1.jpg
+  alt: Daily student routine
 ---
 
 ##University is one of the best places to make lifelong friends. When I first 

@@ -1,6 +1,32 @@
-[data-mode="dark"] {
-  --sidebar-bg: #1e1b4b !important;
-  --main-bg: #0f172a !important;
-  --card-bg: #1e293b !important;
-  --link-color: #a78bfa !important;
+/* ===== POST PAGES DARK FIX ===== */
+#main-wrapper {
+  background-color: #1a1a1a !important;
+}
+
+.post-content, .page-content {
+  background-color: #1a1a1a !important;
+  color: #d4d4d4 !important;
+}
+
+/* ===== APNA CUSTOM COLOR (GREEN EXAMPLE) ===== */
+/* Sirf yeh hex codes badlein apni marzi se */
+
+body {
+  background-color: #1a1a1a !important;
+}
+
+/* Cards / Post boxes */
+.card {
+  background-color: #252525 !important;
+  border-color: #3a3a3a !important;
+}
+
+/* Headings */
+h1, h2, h3, .post-title a {
+  color: #ffffff !important;
+}
+
+/* Links */
+a {
+  color: #7ecf7e !important;  /* green — yahan badlein */
 }

@@ -7,7 +7,8 @@ image:
   path: /assets/img/routine-1.jpg
   alt: Daily student routine
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 University life taught me the value of having a structured daily routine.
 Without one, it is very easy to fall behind on studies and lose balance.
 
@@ -42,4 +43,5 @@ your goals every single day.
 <p align="center">
   <img src="/assets/img/first-day-2.jpg" alt="title" width="900"/>
 </p>
-
+</h3>
+</div>

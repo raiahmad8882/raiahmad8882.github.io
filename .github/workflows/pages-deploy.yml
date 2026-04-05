@@ -40,6 +40,8 @@ jobs:
           ruby-version: 3.4
           bundler-cache: false
       - name: Clear bundle cache
+      - name: Install dependencies
+        run: bundle install
         run: rm -rf vendor/bundle Gemfile.lock
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"

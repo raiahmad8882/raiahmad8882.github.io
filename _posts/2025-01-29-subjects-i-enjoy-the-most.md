@@ -5,7 +5,7 @@ categories: [Academics]
 tags: [subjects, learning, passion]
 ---
 
-University opened my eyes to subjects I never knew I would love. Some courses 
+##University opened my eyes to subjects I never knew I would love. Some courses 
 challenged me greatly, while others felt like a natural calling.
 
 ## My Favourite Subjects

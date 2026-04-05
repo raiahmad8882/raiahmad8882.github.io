@@ -19,33 +19,33 @@ A three day celebration of art, music, drama and culture from students across
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
 
-<p align="left">
-  <img src="/assets/img/razaimage.jpeg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/razaimage.jpeg" alt="title" width="900"/>
 </p>
-<p align="right">
-  <img src="/assets/img/culture-day.jpg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/culture-day.jpg" alt="title" width="900"/>
 </p>
 
 ### Inter University Quiz Competition
 Our team competed against students from 8 universities. We reached the semi 
 finals — a proud achievement that boosted our confidence enormously.
-<p align="left">
-  <img src="/assets/img/quiz-1.jpeg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/quiz-1.jpeg" alt="title" width="900"/>
 </p>
-<p align="right">
-  <img src="/assets/img/quiz-2,jpeg.png" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/quiz-2,jpeg.png" alt="title" width="900"/>
 </p>
 ### Campus Tree Plantation Drive
 Students and faculty planted over 200 trees across campus. A day of community, 
 purpose, and contributing something lasting to our university.
-<p align="left">
-  <img src="/assets/img/tree-1.jpeg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/tree-1.jpeg" alt="title" width="900"/>
 </p> this is the plantaion of year 2023 in uet Lahore Faislabad campus. this is a great project announce by our university to enhence the beauty of our university.
-<p align="right">
-  <img src="/assets/img/tree-2.jpeg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/tree-2.jpeg" alt="title" width="900"/>
 </p> now again in 2024 this compigen is started by our university for planting trees.
-<p align="left">
-  <img src="/assets/img/tree-3.jpeg" alt="title" width="450"/>
+<p align="center">
+  <img src="/assets/img/tree-3.jpeg" alt="title" width="900"/>
 </p>
 ### Guest Lecture by Industry Expert
 A renowned professional visited campus to share career insights. The question 

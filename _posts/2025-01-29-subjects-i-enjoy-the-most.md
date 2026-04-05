@@ -4,7 +4,7 @@ date: 2026-01-29 10:00:00 +0500
 categories: [Academics]
 tags: [subjects, learning, passion]
 image:
-  path: /assets/img/pf-1.jpg
+  path: /assets/img/pf-1.jpeg
   alt: Subject I loved Most
 ---
 

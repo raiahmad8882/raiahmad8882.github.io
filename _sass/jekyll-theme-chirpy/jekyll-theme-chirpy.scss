@@ -1,71 +1,53 @@
----
----
-
 /* Force dark green on everything */
-
 html {
   background-color: #0d1f0d !important;
 }
-
 body {
   background-color: #0d1f0d !important;
   color: #c8e6c9 !important;
 }
-
 #sidebar {
   background-color: #0a1a0a !important;
   border-right: 1px solid #1e3d1e !important;
 }
-
 #sidebar .site-title a,
 #sidebar .site-subtitle {
   color: #81c784 !important;
 }
-
 #topbar-wrapper, #topbar {
   background-color: #0a1a0a !important;
 }
-
 #main-wrapper {
   background-color: #0d1f0d !important;
 }
-
 .card {
   background-color: #122112 !important;
   border-color: #1e3d1e !important;
   color: #c8e6c9 !important;
 }
-
 .card a, .card .card-title a {
   color: #66bb6a !important;
 }
-
 .card .card-text,
 .card .post-meta {
   color: #a5d6a7 !important;
 }
-
 h1, h2, h3, h4 {
   color: #66bb6a !important;
 }
-
 a {
   color: #4caf50 !important;
 }
-
 .post-content, .page-content {
   background-color: #0d1f0d !important;
   color: #c8e6c9 !important;
 }
-
 #panel-wrapper {
   background-color: #0d1f0d !important;
 }
-
 .panel-heading {
   color: #4caf50 !important;
 }
-
 .tag, .badge {
   background-color: #1b5e20 !important;
   color: #c8e6c9 !important;

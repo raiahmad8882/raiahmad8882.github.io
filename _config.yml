@@ -34,3 +34,5 @@ comments:
   provider:
 
 paginate: 10
+sass:
+  style: compressed

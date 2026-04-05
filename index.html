@@ -3,3 +3,55 @@ layout: home
 # Index page
 ---
 
+---
+layout: default
+---
+
+<div class="custom-home">
+
+  <!-- LEFT SIDEBAR -->
+  <aside class="left-sidebar">
+    <div class="profile-box">
+      <img src="/assets/images/profile.jpg" alt="profile">
+      <h2>My University Journey</h2>
+      <p>A student's journey through campus life</p>
+    </div>
+
+    <nav class="menu">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/archives/">Archives</a>
+      <a href="/categories/">Categories</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </aside>
+
+  <!-- MAIN BLOG -->
+  <main class="main-content">
+    {% for post in site.posts %}
+    <div class="post-card">
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+    </div>
+    {% endfor %}
+  </main>
+
+  <!-- RIGHT SIDEBAR -->
+  <aside class="right-sidebar">
+    <h3>Recently Updated</h3>
+    <ul>
+      {% for post in site.posts limit:5 %}
+      <li>{{ post.title }}</li>
+      {% endfor %}
+    </ul>
+
+    <h3>Trending Tags</h3>
+    <div class="tags">
+      {% for tag in site.tags %}
+      <span>{{ tag[0] }}</span>
+      {% endfor %}
+    </div>
+  </aside>
+
+</div>

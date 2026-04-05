@@ -12,3 +12,29 @@ $heading-color: #66bb6a !default;
 $link-color: #4caf50 !default;
 $tag-bg: #1b5e20 !default;
 $topbar-bg-color: #0a1a0a !default;
+/* Fix post page dark background */
+[data-mode="dark"] {
+  --main-bg: #0d1f0d !important;
+  --body-bg: #0d1f0d !important;
+  --card-bg: #122112 !important;
+  --post-bg: #0d1f0d !important;
+}
+
+[data-mode="dark"] .content,
+[data-mode="dark"] article,
+[data-mode="dark"] .post,
+[data-mode="dark"] #post-wrapper,
+[data-mode="dark"] .post-content,
+[data-mode="dark"] main,
+[data-mode="dark"] #main-wrapper,
+[data-mode="dark"] #core-wrapper {
+  background-color: #0d1f0d !important;
+  color: #c8e6c9 !important;
+}
+
+[data-mode="dark"] h1,
+[data-mode="dark"] h2,
+[data-mode="dark"] h3,
+[data-mode="dark"] h4 {
+  color: #66bb6a !important;
+}

@@ -3,6 +3,9 @@ title: "My First Day at University"
 date: 2026-01-01 10:00:00 +0500
 categories: [University Life]
 tags: [first day, campus, student]
+image:
+  path: /assets/img/routine-1.jpg
+  alt: Daily student routine
 ---
 
 I still remember the morning of my first day at university. I woke up early, 

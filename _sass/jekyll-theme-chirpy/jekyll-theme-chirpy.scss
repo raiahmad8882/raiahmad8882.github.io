@@ -53,3 +53,27 @@ a {
   color: #c8e6c9 !important;
   border-color: #2e7d32 !important;
 }
+.post-content {
+  max-width: 750px !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+}
+
+.post-content img {
+  display: block !important;
+  margin: 1.5rem auto !important;
+  max-width: 80% !important;
+  border-radius: 8px !important;
+}
+
+.post-content table {
+  margin: 1rem auto !important;
+  border-collapse: collapse !important;
+  width: 100% !important;
+}
+
+.post-content table td,
+.post-content table th {
+  padding: 8px 16px !important;
+  border: 1px solid #ddd !important;
+}

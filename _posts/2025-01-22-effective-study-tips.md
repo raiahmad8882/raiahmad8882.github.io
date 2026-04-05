@@ -7,7 +7,8 @@ image:
   path: /assets/img/friends-2.jpg
   alt: Daily student routine
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 # When I first arrived at university,
 I thought studying more hours meant 
 better grades. I was wrong. Quality matters far more than quantity.
@@ -43,3 +44,5 @@ it. Teach your friends, or even explain it to yourself in a mirror.
 Sleep at least 8 hours every night during exam week. Eat a good breakfast on 
 exam morning. Arrive early. Take three deep breaths before you begin. Trust 
 your preparation.
+</h3>
+</div>

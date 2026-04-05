@@ -7,7 +7,8 @@ image:
   path: /assets/img/exams-1.jpeg
   alt: Exams Pic
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 University assignments are unlike anything from school. They require 
 independent research, critical thinking, and strong time management skills.
 
@@ -44,3 +45,5 @@ even during exam week. It shifts your mindset from panic to gratitude.
 
 Pressure is not the enemy. Procrastination is. Start early, stay calm, and 
 always finish strong.
+</h3>
+</div>

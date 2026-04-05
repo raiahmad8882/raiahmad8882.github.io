@@ -2,8 +2,15 @@
 layout: home
 # Index page
 ---
-<div class="splash-content">
-  <Welcome to My Personal Journey>
-    <div class="button-container">
-      <a href="wa.me/923092858045"
-      contact me on this number>/a
+{% if site.show_excerpts %}
+  {% for post in site.posts %}
+    <article>
+      {% include meta.html post=post %}
+      {{ post.excerpt }}
+      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
+    </article>
+  {% endfor %}
+{% else %}
+  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
+  {{ source | split: "---" | last }}
+{% endif %}

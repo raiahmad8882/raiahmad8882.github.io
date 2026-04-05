@@ -27,10 +27,10 @@ finals — a proud achievement that boosted our confidence enormously.
 ### Campus Tree Plantation Drive
 Students and faculty planted over 200 trees across campus. A day of community, 
 purpose, and contributing something lasting to our university.
-<p align="center">
+<p align="left">
   <img src="/assets/img/tree-1.jpeg" alt="title" width="450"/>
 </p>
-<p align="center">
+<p align="right">
   <img src="/assets/img/tree-2.jpeg" alt="title" width="450"/>
 </p>
 <p align="center">

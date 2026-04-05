@@ -1,32 +1,102 @@
-/* ===== POST PAGES DARK FIX ===== */
-#main-wrapper {
-  background-color: #1a1a1a !important;
-}
-
-.post-content, .page-content {
-  background-color: #1a1a1a !important;
-  color: #d4d4d4 !important;
-}
-
-/* ===== APNA CUSTOM COLOR (GREEN EXAMPLE) ===== */
-/* Sirf yeh hex codes badlein apni marzi se */
+/* ===== DARK GREEN THEME ===== */
 
 body {
-  background-color: #1a1a1a !important;
+  background-color: #0d1f0d !important;
 }
 
-/* Cards / Post boxes */
+#main-wrapper {
+  background-color: #0d1f0d !important;
+}
+
+/* Sidebar */
+#sidebar {
+  background-color: #0a1a0a !important;
+  border-right: 1px solid #1e3d1e !important;
+}
+
+#sidebar .site-title a {
+  color: #4caf50 !important;
+}
+
+#sidebar .site-subtitle {
+  color: #81c784 !important;
+}
+
+#sidebar a {
+  color: #a5d6a7 !important;
+}
+
+#sidebar .nav-link.active {
+  background-color: #1b5e20 !important;
+  color: #ffffff !important;
+}
+
+/* Post cards (home page) */
 .card {
-  background-color: #252525 !important;
-  border-color: #3a3a3a !important;
+  background-color: #122112 !important;
+  border-color: #1e3d1e !important;
+}
+
+.card:hover {
+  border-color: #4caf50 !important;
+}
+
+.card .card-title a {
+  color: #81c784 !important;
+}
+
+.card .card-text {
+  color: #a5d6a7 !important;
+}
+
+/* Post page content */
+.post-content, .page-content {
+  background-color: #0d1f0d !important;
+  color: #c8e6c9 !important;
 }
 
 /* Headings */
-h1, h2, h3, .post-title a {
-  color: #ffffff !important;
+h1, h2, h3, h4 {
+  color: #66bb6a !important;
+}
+
+.post-title {
+  color: #81c784 !important;
 }
 
 /* Links */
 a {
-  color: #7ecf7e !important;  /* green — yahan badlein */
+  color: #66bb6a !important;
+}
+
+a:hover {
+  color: #a5d6a7 !important;
+}
+
+/* Tags */
+.tag, .categories {
+  background-color: #1b5e20 !important;
+  color: #c8e6c9 !important;
+}
+
+/* Top navbar */
+#topbar-wrapper {
+  background-color: #0a1a0a !important;
+  border-bottom: 1px solid #1e3d1e !important;
+}
+
+/* Search bar */
+#search-input {
+  background-color: #122112 !important;
+  color: #c8e6c9 !important;
+  border-color: #2e7d32 !important;
+}
+
+/* Right panel */
+#panel-wrapper {
+  background-color: #0d1f0d !important;
+}
+
+.panel-heading {
+  color: #4caf50 !important;
 }

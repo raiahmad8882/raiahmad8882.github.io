@@ -3,6 +3,9 @@ title: "My Future Goals and Career Dreams"
 date: 2026-02-26 10:00:00 +0500
 categories: [Future]
 tags: [goals, career, dreams, motivation]
+image:
+  path: /assets/img/future.jpeg
+  alt: Daily student routine
 ---
 
 University has not only given me knowledge — it has given me vision. I arrived 

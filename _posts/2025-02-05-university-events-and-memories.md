@@ -16,13 +16,14 @@ all departments. I performed in the drama segment and it was one of the most
 thrilling experiences of my life.
 
 <p align="center">
-  <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
+  <img src="/assets/img/tree-1.jpeg" alt="title" width="900"/>
 </p>
-
 ### Inter University Quiz Competition
 Our team competed against students from 8 universities. We reached the semi 
 finals — a proud achievement that boosted our confidence enormously.
-
+<p align="center">
+  <img src="/assets/img/quiz-1.jpeg" alt="title" width="900"/>
+</p>
 
 ### Campus Tree Plantation Drive
 Students and faculty planted over 200 trees across campus. A day of community, 

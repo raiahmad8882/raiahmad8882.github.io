@@ -16,7 +16,9 @@ challenged me greatly, while others felt like a natural calling.
 
 
 Programming Fundamentals is one of the most interesting and useful subjects for me. It helps me understand how computers work and how software is created. I enjoy learning this subject because it improves my thinking, creativity, and technical skills.
-
+<p align="center">
+  <img src="/assets/img/pf-4.jpeg" alt="title" width="900"/>
+</p>
 ---
 
 ## 1. It Improves My Logical and Problem-Solving Skills
@@ -51,7 +53,10 @@ Programming Fundamentals is the first and most important step toward becoming su
 - Object-Oriented Programming  
 - Data Structures  
 - Web Development  
-- Artificial Intelligence  
+- Artificial Intelligence
+<p align="center">
+  <img src="/assets/img/pf-3.jpeg" alt="title" width="900"/>
+</p>
 - Software Engineering  
 
 By learning Programming Fundamentals well, I can build a strong base for my future studies and career. I like this subject because I know it will help me grow academically and professionally in the technology field.

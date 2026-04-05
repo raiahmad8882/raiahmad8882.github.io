@@ -7,7 +7,7 @@ image:
   path: /assets/img/first-day-1.jpg
   alt: Daily student routine
 ---
-
+</p align="center">
 University has not only given me knowledge — it has given me vision. I arrived 
 as a student unsure of my path. Now I have a clear picture of where I want 
 to go and who I want to become.
@@ -44,3 +44,4 @@ volunteering, and creating opportunities for those who come after me.
 Your future is not something that happens to you. It is something you build 
 — one choice, one day, one dream at a time. Believe in your goals, work hard 
 every single day, and never give up on the person you are becoming.
+</p>

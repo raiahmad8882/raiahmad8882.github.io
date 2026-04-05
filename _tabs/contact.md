@@ -10,16 +10,13 @@ header:
 
 # Contact Me
 
-- Email: your@email.com
-# Contact Me
-
 I am always open to discussing new engineering projects, machine learning research, or potential collaborations.
 
 ---
 
 ### Contact Form
 
-<form action="mailto:minahilahsan@gmail.com" method="post" enctype="text/plain" style="max-width: 600px; margin: 0 auto; background: #f9f9f9; padding: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<form action="mailto:raiahmad8882@gmail.com" method="post" enctype="text/plain" style="max-width: 600px; margin: 0 auto; background: #f9f9f9; padding: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   <div style="margin-bottom: 20px;">
     <label for="name" style="display: block; font-weight: bold; margin-bottom: 8px; color: #333;">Your Name</label>
     <input type="text" id="name" name="name" placeholder="Enter your full name" required style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 6px; box-sizing: border-box; font-size: 16px;">
@@ -41,15 +38,15 @@ I am always open to discussing new engineering projects, machine learning resear
 
 ### Reach Out via Social Media
 
-- **GitHub**: [https://github.com/Minahil](https://github.com/Minahil)
-- **LinkedIn**: [https://linkedin.com/in/minahilahsan](https://linkedin.com/in/minahilahsan)
-- **Twitter**: [https://twitter.com/Minahil_Ahsan](https://twitter.com/Minahil_Ahsan)
+- **GitHub**: [https://github.com/Ahmad raza](https:/raiahmad8882.github.io/)
+- **LinkedIn**: [https://linkedin.com/in/ahmad raza](https://linkedin.com/in/raiahmad8882@gmail.com)
+- **Twitter**: [https://twitter.com/Ahmad Raza](https://twitter.com/raiahmad8882@gmail.com)
 
 ---
 
-### My Location: Khushab, Pakistan
+### My Location: Pindi Bhattian , Pakistan
 
-Khushab is a beautiful city in the Punjab province of Pakistan, known for its rich culture and scenic landscapes.
+Pindi Bhattian is a beautiful city in the Punjab province of Pakistan, known as the City Of Rice and scenic landscapes.
 
 <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top: 20px;">
   <iframe 

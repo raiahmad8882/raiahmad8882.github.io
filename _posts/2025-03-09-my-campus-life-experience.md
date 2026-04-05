@@ -7,7 +7,8 @@ image:
   path: /assets/img/cafeteria.jpeg
   alt: Campus life
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 The campus is more than a place to attend classes. It is a world unto itself 
 — a community filled with energy, ideas, and endless possibility.
 
@@ -45,3 +46,5 @@ conversation with someone different from yourself.
 
 Someday I will graduate and leave this campus behind. But I know I will miss 
 every corner of it for the rest of my life.
+</h3>
+</div>

@@ -18,11 +18,11 @@ A three day celebration of art, music, drama and culture from students across
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
 
-<p align="center">
-  <img src="/assets/img/razaimage.jpeg" alt="title" width="900"/>
+<p align="left">
+  <img src="/assets/img/razaimage.jpeg" alt="title" width="450"/>
 </p>
-<p align="center">
-  <img src="/assets/img/culture-day.jpg" alt="title" width="900"/>
+<p align="right">
+  <img src="/assets/img/culture-day.jpg" alt="title" width="450"/>
 </p>
 
 ### Inter University Quiz Competition

@@ -8,7 +8,7 @@ image:
   alt: Daily student routine
 ---
 <div style="max-width:900px; margin: auto;text-align: center;">
-  <h3 style="margin-bottom: 15px; ">
+  <h3 style="margin-bottom: 25px; ">
 University has not only given me knowledge — it has given me vision. I arrived 
 as a student unsure of my path. Now I have a clear picture of where I want 
 to go and who I want to become.

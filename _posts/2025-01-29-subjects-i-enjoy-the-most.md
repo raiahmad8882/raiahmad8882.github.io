@@ -7,7 +7,8 @@ image:
   path: /assets/img/pf-1.jpeg
   alt: Subject I loved Most
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 # University opened my eyes to subjects I never knew I would love. 
 Some courses challenged me greatly, while others felt like a natural calling.
 <p align="center">
@@ -68,7 +69,5 @@ Programming Fundamentals is the first and most important step toward becoming su
 By learning Programming Fundamentals well, I can build a strong base for my future studies and career. I like this subject because I know it will help me grow academically and professionally in the technology field.
 
 ---
-
-## Conclusion
-
-I like Programming Fundamentals because it improves m
+</h3>
+</div>

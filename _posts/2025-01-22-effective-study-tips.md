@@ -13,7 +13,9 @@ better grades. I was wrong. Quality matters far more than quantity.
 ### 1. Pomodoro Technique
 Study for 25 minutes, then take a 5 minute break. After 4 rounds, take a 
 longer 30 minute break. This keeps your focus sharp throughout the day.
-
+<p align="center">
+  <img src="/assets/img/routine-2.jpg" alt="title" width="900"/>
+</p>
 ### 2. Active Recall
 Close your notes and try to remember everything from memory. This is the 
 single most powerful study method proven by research.

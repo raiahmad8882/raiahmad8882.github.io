@@ -4,7 +4,7 @@ date: 2026-02-26 10:00:00 +0500
 categories: [Future]
 tags: [goals, career, dreams, motivation]
 image:
-  path: /assets/img/future.jpeg
+  path: /assets/img/first-day-1.jpg
   alt: Daily student routine
 ---
 

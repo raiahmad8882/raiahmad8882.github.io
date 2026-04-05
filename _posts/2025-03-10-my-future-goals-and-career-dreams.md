@@ -16,20 +16,28 @@ to go and who I want to become.
 
 ### Graduate with Honours
 My first goal is to complete my degree with the best possible grades, proving 
-that hard work and dedication always pay off.
+that hard work and dedication always pay off.<p align="center">
+  <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
+</p>
 
 ### Land My Dream Job
 I aim to join a leading organisation in my field where I can contribute 
 meaningfully, grow professionally, and make a real difference.
-
+<p align="center">
+  <img src="/assets/img/dreem.jpeg" alt="title" width="900"/>
+</p>
 ### Never Stop Learning
 My education will not end at graduation. I plan to pursue further studies, 
 read widely, and stay curious for the rest of my life.
-
+<p align="center">
+  <img src="/assets/img/never-stop.jpeg" alt="title" width="900"/>
+</p>
 ### Give Back to My Community
 I want to use my knowledge and skills to help others — through mentorship, 
 volunteering, and creating opportunities for those who come after me.
-
+<p align="center">
+  <img src="/assets/img/commun.jpeg" alt="title" width="900"/>
+</p>
 ## My Message to Fellow Students
 
 Your future is not something that happens to you. It is something you build 

@@ -3,6 +3,9 @@ title: "Subjects I Enjoy the Most"
 date: 2026-01-29 10:00:00 +0500
 categories: [Academics]
 tags: [subjects, learning, passion]
+image:
+  path: /assets/img/pf-1.jpg
+  alt: Subject I loved Most
 ---
 
 # University opened my eyes to subjects I never knew I would love. 

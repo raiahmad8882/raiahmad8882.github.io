@@ -7,7 +7,8 @@ image:
   path: /assets/img/friendship.jpeg
   alt: Daily student routine
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 ##University is one of the best places to make lifelong friends. When I first 
 arrived, I knew absolutely nobody. But I quickly realized that everyone else 
 felt the same way.
@@ -36,3 +37,5 @@ genuine moments.
 <p align="center">
   <img src="/assets/img/first-friend.jpeg" alt="title" width="900"/>
 </p>
+</h3>
+</div>

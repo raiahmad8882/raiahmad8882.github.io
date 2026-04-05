@@ -7,7 +7,7 @@ image:
   path: /assets/img/first-day-1.jpg
   alt: Daily student routine
 ---
-<div style="max-width: 900px; margin: auto;text-align: center;">
+<div style="max-width="900"; margin: auto;text-align: center;">
 University has not only given me knowledge — it has given me vision. I arrived 
 as a student unsure of my path. Now I have a clear picture of where I want 
 to go and who I want to become.

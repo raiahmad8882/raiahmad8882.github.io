@@ -3,6 +3,9 @@ title: "My Campus Life Experience"
 date: 2026-02-19 10:00:00 +0500
 categories: [Campus Life]
 tags: [campus, university, experience]
+image:
+  path: /assets/img/routine-1.jpg
+  alt: Daily student routine
 ---
 
 The campus is more than a place to attend classes. It is a world unto itself 

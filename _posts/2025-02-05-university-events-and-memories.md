@@ -7,8 +7,7 @@ image:
   path: /assets/img/culture-day.jpg
   alt: Anual Cultural Festival
 ---
-<div style="max-width:900px; margin: auto;text-align: center;">
-  <h3 style="margin-bottom: 25px; ">
+
 University is not just about textbooks and exams. The events, festivals, and 
 celebrations are what make it a truly complete experience.
 
@@ -18,12 +17,6 @@ celebrations are what make it a truly complete experience.
 A three day celebration of art, music, drama and culture from students across 
 all departments. I performed in the drama segment and it was one of the most 
 thrilling experiences of my life.
-
-<p align="center">
-  <img src="/assets/img/razaimage.jpeg" alt="title" width="900"/>
-</p>
-
-
 In year  2024 the cultural is held in our universit. In this festival many student participate  and wear their traditional clothes.
 
 
@@ -61,5 +54,3 @@ and answer session was eye opening and deeply inspiring for my future plans.
 The best memories are not planned. They happen when you say yes to new 
 experiences with an open heart. University life is short — participate in 
 everything you can.
-</h3>
-</div>

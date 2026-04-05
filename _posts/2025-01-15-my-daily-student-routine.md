@@ -12,7 +12,9 @@ University life taught me the value of having a structured daily routine.
 Without one, it is very easy to fall behind on studies and lose balance.
 
 ![Daily Routine](/assets/img/routine-1.jpg)
-
+<p align="center">
+  <img src="/assets/img/routine-1.jpg" alt="title" width="900"/>
+</p>
 ## My Daily Schedule
 
 | Time | Activity |

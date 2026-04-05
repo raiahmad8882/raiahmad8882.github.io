@@ -4,7 +4,7 @@ date: 2026-01-08 10:00:00 +0500
 categories: [University Life]
 tags: [friends, social, campus]
 image:
-  path: /assets/img/routine-1.jpg
+  path: /assets/img/friendship.jpeg
   alt: Daily student routine
 ---
 
@@ -17,7 +17,9 @@ felt the same way.
 My first real conversation with a future friend happened in the library. We 
 were both looking for the same book and ended up laughing about it. That 
 small moment turned into hours of conversation and a friendship I treasure.
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+<p align="center">
+  <img src="/assets/img/friendship.jpeg" alt="title" width="900"/>
+</p>
 ## Types of Friends You Meet
 
 - **The Motivator** — Always lifts your spirits when you feel down
@@ -31,3 +33,6 @@ The best advice I can give is simple — say hello first. Most people are
 waiting for someone else to start the conversation. Join clubs, sit next to 
 someone new, suggest a coffee after class. Real friendships grow from small, 
 genuine moments.
+<p align="center">
+  <img src="/assets/img/first-friend.jpeg" alt="title" width="900"/>
+</p>

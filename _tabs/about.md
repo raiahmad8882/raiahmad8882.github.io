@@ -52,3 +52,7 @@ I am always eager to collaborate on innovative projects or discuss the latest tr
 
 *   **Professional Network**: [LinkedIn](https://linkedin.com/in/raiahmad8882@gmail.com)
 *   **Code Repositories**: [GitHub](https://github.com/raiahmad8882
+---
+layout: custom
+title: About
+---

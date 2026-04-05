@@ -29,11 +29,11 @@ Students and faculty planted over 200 trees across campus. A day of community,
 purpose, and contributing something lasting to our university.
 <p align="left">
   <img src="/assets/img/tree-1.jpeg" alt="title" width="450"/>
-</p>
+</p> this is the plantaion of year 2023 in uet Lahore Faislabad campus. this is a great project announce by our university to enhence the beauty of our university.
 <p align="right">
   <img src="/assets/img/tree-2.jpeg" alt="title" width="450"/>
-</p>
-<p align="center">
+</p> now again in 2024 this compigen is started by our university for planting trees.
+<p align="left">
   <img src="/assets/img/tree-3.jpeg" alt="title" width="450"/>
 </p>
 ### Guest Lecture by Industry Expert

@@ -17,7 +17,10 @@ independent research, critical thinking, and strong time management skills.
 - Break big assignments into smaller daily tasks
 - Start research at least 5 days before the deadline
 - Proofread every assignment at least twice before submitting
-- Ask professors for help early — never wait until the night before
+- Ask professors for help early — never wait until the night before.
+  <p align="center">
+  <img src="/assets/img/exams-1.jpeg" alt="title" width="900"/>
+</p>
 
 ## Dealing With Exam Stress
 

@@ -7,7 +7,8 @@ image:
   path: /assets/img/culture-day.jpg
   alt: Anual Cultural Festival
 ---
-
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 University is not just about textbooks and exams. The events, festivals, and 
 celebrations are what make it a truly complete experience.
 
@@ -54,3 +55,5 @@ and answer session was eye opening and deeply inspiring for my future plans.
 The best memories are not planned. They happen when you say yes to new 
 experiences with an open heart. University life is short — participate in 
 everything you can.
+</h3>
+</div>

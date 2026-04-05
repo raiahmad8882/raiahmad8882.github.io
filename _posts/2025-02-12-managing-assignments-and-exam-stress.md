@@ -26,6 +26,9 @@ independent research, critical thinking, and strong time management skills.
 
 Exam season is the most intense time of a student's year. The key is to treat 
 stress as energy and channel it productively.
+ <p align="center">
+  <img src="/assets/img/stress-1.jpeg" alt="title" width="900"/>
+</p>
 
 ### My Stress Relief Methods
 

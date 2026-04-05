@@ -5,7 +5,8 @@ categories: [Academics]
 tags: [study, tips, exams]
 ---
 
-When I first arrived at university, I thought studying more hours meant 
+# When I first arrived at university,
+I thought studying more hours meant 
 better grades. I was wrong. Quality matters far more than quantity.
 <p align="center">
   <img src="/assets/img/friends-2.jpg" alt="title" width="900"/>

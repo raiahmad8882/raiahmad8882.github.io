@@ -22,7 +22,7 @@ thrilling experiences of my life.
 <p align="center">
   <img src="/assets/img/razaimage.jpeg" alt="title" width="900"/>
 </p>
-in year  2024 the cultural is held in our universit. in this festival many student participate  and wear their traditional clothes.
+In year  2024 the cultural is held in our universit. In this festival many student participate  and wear their traditional clothes.
 <p align="center">
   <img src="/assets/img/culture-day.jpg" alt="title" width="900"/>
 </p>

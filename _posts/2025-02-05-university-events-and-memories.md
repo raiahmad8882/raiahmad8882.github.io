@@ -3,6 +3,9 @@ title: "University Events and Special Memories"
 date: 2026-02-05 10:00:00 +0500
 categories: [Campus Life]
 tags: [events, memories, campus]
+image:
+  path: /assets/img/culture-day.jpg
+  alt: Anual Cultural Festival
 ---
 
 University is not just about textbooks and exams. The events, festivals, and 

@@ -3,6 +3,9 @@ title: "Managing Assignments and Exam Stress"
 date: 2026-02-12 10:00:00 +0500
 categories: [Academics]
 tags: [assignments, exams, stress, tips]
+image:
+  path: /assets/img/culture-day.jpg
+  alt: Anual Cultural Festival
 ---
 
 University assignments are unlike anything from school. They require 

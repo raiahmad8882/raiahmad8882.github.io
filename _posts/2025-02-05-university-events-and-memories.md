@@ -23,7 +23,7 @@ thrilling experiences of my life.
 Our team competed against students from 8 universities. We reached the semi 
 finals — a proud achievement that boosted our confidence enormously.
 <p align="center">
-  <img src="/assets/img/tree-1.jpg" alt="title" width="900"/>
+  <img src="/assets/img/tree-1.jpeg" alt="title" width="900"/>
 </p>
 
 ### Campus Tree Plantation Drive

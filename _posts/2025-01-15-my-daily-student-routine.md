@@ -3,11 +3,10 @@ title: "My Daily Student Routine"
 date: 2026-01-15 10:00:00 +0500
 categories: [University Life]
 tags: [routine, discipline, student life]
----
 image:
   path: /assets/img/routine-1.jpg
   alt: Daily student routine
-
+---
 University life taught me the value of having a structured daily routine. 
 Without one, it is very easy to fall behind on studies and lose balance.
 

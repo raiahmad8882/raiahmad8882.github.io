@@ -5,8 +5,8 @@ categories: [Academics]
 tags: [subjects, learning, passion]
 ---
 
-##University opened my eyes to subjects I never knew I would love. Some courses 
-challenged me greatly, while others felt like a natural calling.
+# University opened my eyes to subjects I never knew I would love. 
+Some courses challenged me greatly, while others felt like a natural calling.
 <p align="center">
   <img src="/assets/img/pf-1.jpeg" alt="title" width="900"/>
 </p>

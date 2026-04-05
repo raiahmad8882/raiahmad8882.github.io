@@ -16,7 +16,8 @@ to go and who I want to become.
 
 ### Graduate with Honours
 My first goal is to complete my degree with the best possible grades, proving 
-that hard work and dedication always pay off.<p align="center">
+that hard work and dedication always pay off.
+<p align="center">
   <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
 </p>
 

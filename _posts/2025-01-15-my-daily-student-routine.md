@@ -14,7 +14,7 @@ Without one, it is very easy to fall behind on studies and lose balance.
 
 
 <p align="center">
-  <img src="/assets/img/routine-1.jpg" alt="title" width="600"/>
+  <img src="/assets/img/routine-1.jpg" alt="title" width="900"/>
 </p>
 ## My Daily Schedule
 

@@ -4,7 +4,7 @@ date: 2026-01-01 10:00:00 +0500
 categories: [University Life]
 tags: [first day, campus, student]
 image:
-  path: /assets/img/.jpg
+  path: /assets/img/first-day.jpeg
   alt: Daily student routine
 ---
 
@@ -17,7 +17,9 @@ five times the night before, making sure I had everything ready.
 Walking through the university gates for the first time as a registered 
 student felt surreal. The campus was much larger than I had imagined — tall 
 buildings, green gardens, and hundreds of students rushing between classes.
-
+<p align="center">
+  <img src="/assets/img/first-day.jpeg" alt="title" width="900"/>
+</p>
 
 
 ## My First Lecture

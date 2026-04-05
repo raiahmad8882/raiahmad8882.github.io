@@ -34,15 +34,18 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Clear bundle cache
+        run: rm -rf vendor/bundle Gemfile.lock
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.4
           bundler-cache: false
-     
+
       - name: Install dependencies
         run: bundle install
-        run: rm -rf vendor/bundle Gemfile.lock
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:

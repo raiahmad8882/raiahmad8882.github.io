@@ -12,6 +12,10 @@ description: A personal blog about university life, friendships, studies, and fu
 
 url: "https://raiahmad8882.github.io"
 
+collections:
+  tabs:
+    output: true
+    
 github:
   username: raiahmad8882
 

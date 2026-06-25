@@ -1,0 +1,41 @@
+---
+title: "Building New Friendships"
+date: 2026-01-08 10:00:00 +0500
+categories: [University Life]
+tags: [friends, social, campus]
+image:
+  path: /assets/img/friendship.jpeg
+  alt: Daily student routine
+---
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
+##University is one of the best places to make lifelong friends. When I first 
+arrived, I knew absolutely nobody. But I quickly realized that everyone else 
+felt the same way.
+
+## From Strangers to Friends
+
+My first real conversation with a future friend happened in the library. We 
+were both looking for the same book and ended up laughing about it. That 
+small moment turned into hours of conversation and a friendship I treasure.
+<p align="center">
+  <img src="/assets/img/friendship.jpeg" alt="title" width="900"/>
+</p>
+## Types of Friends You Meet
+
+- **The Motivator** — Always lifts your spirits when you feel down
+- **The Genius** — Explains difficult concepts in simple ways
+- **The Comedian** — Makes every study session fun
+- **The Listener** — Always there when you need to talk
+
+## How to Make Friends at University
+
+The best advice I can give is simple — say hello first. Most people are 
+waiting for someone else to start the conversation. Join clubs, sit next to 
+someone new, suggest a coffee after class. Real friendships grow from small, 
+genuine moments.
+<p align="center">
+  <img src="/assets/img/first-friend.jpeg" alt="title" width="900"/>
+</p>
+</h3>
+</div>

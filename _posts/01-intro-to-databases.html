@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Introduction to Databases: Concepts & Categories — CodeFoundation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+<nav>
+  <span class="nav-logo">// CodeFoundation</span>
+  <a href="../index.html" class="nav-back">← All Articles</a>
+</nav>
+<article>
+<div class="meta">
+  <span class="post-num">01</span>
+  <span class="tag db">Database Design</span>
+  <span class="read-time">8 min read</span>
+</div>
+<h1>Introduction to Databases: Concepts & Categories</h1>
+<p class="lead">Before writing a single query, you need to understand <em>what a database actually is</em> and why dozens of different kinds exist. This article cuts through the noise.</p>
+
+<h2>What is a database?</h2>
+<p>A database is an organized collection of data that can be stored, retrieved, and manipulated efficiently. Every application that persists information — from a to-do list to a global payment system — relies on one. What differs is the <em>model</em> used to organize that data.</p>
+
+<div class="callout tip"><p><strong>Key distinction:</strong> A database is the data itself. A Database Management System (DBMS) — like PostgreSQL, MySQL, or MongoDB — is the software that manages it.</p></div>
+
+<h2>The relational model</h2>
+<p>Introduced by Edgar Codd in 1970, the relational model organizes data into <strong>tables</strong> (relations) made of rows and columns. Relationships between tables are expressed through shared key values. This model underpins PostgreSQL, MySQL, SQLite, Oracle, and SQL Server.</p>
+<p>Relational databases are a great default choice when:</p>
+<ul>
+  <li>Your data has clear structure and consistent shape</li>
+  <li>You need strong consistency and ACID guarantees</li>
+  <li>Relationships between entities are important</li>
+  <li>You want a mature, well-understood query language (SQL)</li>
+</ul>
+
+<h2>Document databases</h2>
+<p>Document databases store data as self-contained documents — usually JSON or BSON. Each document can have a different shape, making them flexible for evolving data. MongoDB and CouchDB are the primary examples.</p>
+<p>They shine when documents are accessed as a unit, when the schema changes frequently, and when horizontal scaling is a priority from the start.</p>
+
+<h2>Key-value stores</h2>
+<p>The simplest data model: a dictionary of keys and values. Values are opaque blobs to the database — it doesn't care about their structure. Redis and DynamoDB (in key-value mode) are popular examples.</p>
+<p>Use cases: session storage, caching, rate limiting, feature flags — anything that needs extremely fast single-key lookup.</p>
+
+<h2>Column-family stores</h2>
+<p>Popularized by Google Bigtable, column-family stores organize data by column groups rather than rows. Apache Cassandra and HBase are the main players. They are excellent for time-series data, wide tables with sparse columns, and write-heavy workloads at massive scale.</p>
+
+<h2>Graph databases</h2>
+<p>Graph databases store data as nodes (entities) and edges (relationships). They are purpose-built for traversing highly connected data efficiently. Neo4j and Amazon Neptune are typical choices. Use them for social networks, fraud detection, recommendation engines, and knowledge graphs.</p>
+
+<h2>How to choose</h2>
+<table>
+  <thead><tr><th>Category</th><th>Best for</th><th>Examples</th></tr></thead>
+  <tbody>
+    <tr><td>Relational</td><td>Structured data, complex queries, strong consistency</td><td>PostgreSQL, MySQL</td></tr>
+    <tr><td>Document</td><td>Flexible schema, nested data, horizontal scale</td><td>MongoDB, Firestore</td></tr>
+    <tr><td>Key-value</td><td>Cache, sessions, simple lookups</td><td>Redis, DynamoDB</td></tr>
+    <tr><td>Column-family</td><td>Time-series, sparse wide tables, write-heavy</td><td>Cassandra, HBase</td></tr>
+    <tr><td>Graph</td><td>Highly connected data, relationship traversal</td><td>Neo4j, Neptune</td></tr>
+  </tbody>
+</table>
+
+<div class="callout"><p><strong>Rule of thumb:</strong> Start with a relational database. Only switch to a specialized store when you have a concrete, proven need that the relational model genuinely cannot serve well.</p></div>
+
+<h2>Summary</h2>
+<p>Databases come in many flavors, each with a distinct data model, consistency model, and scaling story. The relational model remains the most versatile starting point. As your application's data needs grow in specific directions — massive scale, flexible schema, graph traversal — specialized databases become the better fit. The next article explores the relational model in much greater depth.</p>
+</article>
+<div class="nav-footer">
+  <a href="../index.html">← Back to all articles</a>
+  <span>CodeFoundation · Database Design & Programming Fundamentals</span>
+</div>
+</body>
+</html>

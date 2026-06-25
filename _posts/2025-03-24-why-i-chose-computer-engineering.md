@@ -3,6 +3,9 @@ layout: post
 title: "Why I Chose Computer Engineering — And Why I Have No Regrets"
 date: 2025-03-24
 categories: [University Life]
+image:
+  path: /assets/img/culture-day.jpg
+  alt: Anual Cultural Festival
 
 tags: [computerengineering, choice, career, university, DrBilalAhmad, MLwithDrBilalAhmad, MLProject]
 ---

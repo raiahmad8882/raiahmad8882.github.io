@@ -6,7 +6,9 @@
 **Title:** `My Second Semester Begins — Nervous But Excited! 🚀`
 **Slug:** `semester-2-begins-journey-start`
 **Category:** Journey / Intro
-
+---
+<div style="max-width:900px; margin: auto;text-align: center;">
+  <h3 style="margin-bottom: 25px; ">
 **Content:**
 
 Second semester shuru ho gaya! Pehla din lecture hall mein baithke jo feel hua — woh mix tha excitement ka aur thodi si ghabrahat ka. Is semester mein humein **Programming Fundamentals** aur **DBMS** padhni hai — dono subjects mujhe bilkul naye lagte hain.
@@ -24,5 +26,4 @@ Aur woh baat dil mein utar gayi. Main is journey ko honestly document karna chah
 **📸 Image to use:**
 `Unsplash: student sitting at desk with laptop, notebook open`
 **Search keyword:** `https://unsplash.com/s/photos/student-studying-laptop`
-
----
+</div>

@@ -4,7 +4,7 @@ title: "Why I Chose Computer Engineering — And Why I Have No Regrets"
 date: 2025-03-24
 categories: [University Life]
 image:
-  path: /assets/img/![Computer Engineering](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800)
+  path:![Computer Engineering](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800)
 
 
 tags: [computerengineering, choice, career, university, DrBilalAhmad, MLwithDrBilalAhmad, MLProject]
